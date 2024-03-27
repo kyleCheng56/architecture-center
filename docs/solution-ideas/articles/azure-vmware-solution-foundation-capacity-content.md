@@ -70,6 +70,7 @@ Principal author:
 Refer to following resources to understand more about Azure VMware Solution.
 
 * [Azure VMware Solution](/azure/azure-vmware)
+* ####
 * [Azure VMware Solution Assessment overview](/azure/migrate/how-to-create-azure-vmware-solution-assessment)
 
 ## Related resources
